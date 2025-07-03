@@ -1,5 +1,5 @@
 # git-crash-course
 
-## IMportant instructions
+## Important instructions
 
 This is a demo rep for practicing git and github
